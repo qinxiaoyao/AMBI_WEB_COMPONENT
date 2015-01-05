@@ -1,0 +1,38 @@
+{
+    "navs": [
+        {
+            "name": "流量分析",
+            "subname": "flow analysis",
+            "icon": "fa-dashboard",
+            "children": [
+                {
+                    "name":"P2P流量分析",
+                    "url":"a.html"
+                }
+            ] 
+        },
+        {
+            "name": "共享检测",
+            "subname": "flow analysis",
+            "icon": "fa-wrench",
+            "children": [
+                {
+                    "name": "查看报表",
+                    "url": "b.html",
+                    "children": [
+                        {
+                            "name": "AAAA",
+                            "url": "b.html"
+                        }
+                    ] 
+                }
+            ] 
+        },
+        {
+            "name": "信息推送",
+            "subname": "flow analysis",
+            "icon": "fa-sitemap",
+            "url":"c.html"
+        }
+    ]
+}

@@ -3724,7 +3724,7 @@ tbody.collapse.in {
 
 .breadcrumb {
   padding: 8px 15px;
-  margin-bottom: 20px;
+  /*margin-bottom: 20px;*/
   list-style: none;
   background-color: whitesmoke;
   border-radius: 3px; }
